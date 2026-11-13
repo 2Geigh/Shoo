@@ -20,3 +20,29 @@ I find going online and searching for new practice problems for calculus, linear
 - [ ] A "verify" button to check if you were right or wrong
 - [ ] A "show answer" button
 - [ ] A "skip problem" button to regenerate a new problem.
+
+## Timeline
+
+### 0.1
+ - [ ] Generate a random `n` and random `N` and display `y^[N](n)` (the `N`th-order derivative of `y(x)` when `x = n`)
+ - [ ] Generate a random `f(x)` of Power rule form `f(x) = m(x^B) + b` for some random `B`
+ - [ ] When the user presses space, compute `y^[N](n)` and display it to them
+ - [ ] When the user presses space again, clear the screen and display the next problem (goto point 1)
+### 1.0
+  - [ ] Add the following types of questions:
+    - [ ] Product rule
+    - [ ] Quotient rule
+    - [ ] Chain rule
+    - [ ] Trig
+      - [ ] Sin
+      - [ ] Cos
+      - [ ] Tan
+      - [ ] Cosec
+      - [ ] Sec
+      - [ ] Cot
+      - [ ] Arcsin
+      - [ ] Arccos
+      - [ ] Arctan
+      - [ ] Arccosec
+      - [ ] Arcsec
+      - [ ] Arccot
