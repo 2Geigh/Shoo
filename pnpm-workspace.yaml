@@ -1,0 +1,4 @@
+allowBuilds:
+  bufferutil: true
+  es5-ext: true
+  utf-8-validate: true
