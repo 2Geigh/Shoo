@@ -29,7 +29,7 @@ I find going online and searching for new practice problems for calculus, linear
  - [ ] When the user presses space, compute `y^[N](n)` and display it to them
  - [ ] When the user presses space again, clear the screen and display the next problem (goto point 1)
 ### 1.0
-  - [ ] Add the following types of questions:
+  - [ ] Add the following [types](https://allen.in/jee/maths/derivatives) of questions:
     - [ ] Product rule
     - [ ] Quotient rule
     - [ ] Chain rule
